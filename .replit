@@ -1,3 +1,4 @@
+language = "java"
 run = "bash filius/filius.sh"
 
 entrypoint = "Readme.md"
