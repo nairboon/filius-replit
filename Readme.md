@@ -4,9 +4,7 @@ Met deze repository kun je in replit aan de slag in Filius, het programma om te 
 
 Voer de volgende stappen uit om te beginnen:
 - 
-- ![startreplit](https://img.shields.io/badge/start-replit-lightgrey)
--
-- [wew](https://replit.com/github/emmauscollege/filius-replit) start filius in replit
+- [![startreplit](https://img.shields.io/badge/start-replit-lightgrey)](https://replit.com/github/emmauscollege/filius-replit) start filius in replit
 - Login op replit met je github account en klik op import repo
 - Druk op de groen Run-knop in replit
 - Maak de delen van replit die je niet gebruikt klein door de randen te schuiven, totdat filius bijna schermvullend is
