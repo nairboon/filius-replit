@@ -4,7 +4,7 @@ Met deze repository kun je in replit aan de slag in Filius, het programma om te 
 
 Voer de volgende stappen uit om te beginnen:
 - Login op Replit met je Github account
-- [![startreplit](https://img.shields.io/badge/start-replit-lightgrey)](https://replit.com/github/emmauscollege/filius-replit) open deze Github-repo in Replit, klik op "import repo", het laden kan een minuutje duren.
+- [open deze repo in Replit](https://replit.com/github/emmauscollege/filius-replit), klik op "import repo", het laden kan een minuutje duren.
 - Druk op de groen Run-knop in Replit, Filius verschijnt
 - Klik rechtsboven in Filius op het icoon voor een groot venster, dat icoon zit links van het kruisje
 - Maak de delen van replit die je niet gebruikt klein door de randen te schuiven, totdat filius bijna schermvullend is
