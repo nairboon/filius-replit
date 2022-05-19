@@ -1,0 +1,6 @@
+run = "bash filius/filius.sh"
+
+entrypoint = "Readme.md"
+
+[nix]
+channel = "stable-21_11"
