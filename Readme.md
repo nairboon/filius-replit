@@ -2,6 +2,8 @@
 
 Met deze repository kun je in replit aan de slag in Filius, het programma om te leren hoe computers met elkaar communiceren.
 
+[![screenshot van Filius](filius_screenshot.png)](https://replit.com/@vangeest/filius?embed=true)
+
 Voer de volgende stappen uit om te beginnen:
 - Login op Replit met je Github account
 - [open deze repo in Replit](https://replit.com/github/emmauscollege/filius-replit), klik op "import repo", het laden kan een minuutje duren.
