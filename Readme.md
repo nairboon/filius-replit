@@ -3,7 +3,7 @@
 Met deze repository kun je in replit aan de slag in Filius, het programma om te leren hoe computers met elkaar communiceren.
 
 [![screenshot van Filius](filius_screenshot.png)](https://replit.com/@vangeest/filius?embed=true)
-Druk op het plaatje om Filius te openen in de repl van vangeest, dat is snel, maar je kunt dan niks saven.
+Druk op het plaatje om Filius te openen in de repl van vangeest, geen replit account nodig, maar je kunt dan niks saven.
 
 Voer de volgende stappen uit om te beginnen (je kunt dan dingen saven in replit):
 - Login op Replit met je Github account
