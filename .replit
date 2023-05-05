@@ -1,7 +1,17 @@
-language = "java"
 run = "bash filius/filius.sh"
 
 entrypoint = "Readme.md"
 
 [nix]
 channel = "stable-21_11"
+
+[languages]
+
+[languages.bash]
+pattern = "**/{*.sh,*.bash}"
+
+[languages.bash.languageServer]
+start = "bash-language-server start"
+
+[deployment]
+run = ["sh", "-c", "bash main.sh"]
