@@ -1,16 +1,26 @@
-# Werkomgeving Filius
+# Filius mit Tablets
 
-Met deze repository kun je in replit aan de slag in Filius, het programma om te leren hoe computers met elkaar communiceren.
+Mit diesem Repository kann Filius in Replit gestartet werden. Filius ist eine Lernanwendung zu Rechnernetzen.
 
-[![screenshot van Filius](filius_screenshot.png)](https://replit.com/@vangeest/filius?embed=true)
-Druk op het plaatje om Filius te openen in de repl van vangeest, geen replit account nodig, maar je kunt dan niks saven.
+[![screenshot van Filius](filius_screenshot.png)](https://replit.com/@exby23/filius?embed=true)
+Klicken Sie auf das Bild, um Filius in Replit zu öffnen. Es ist kein Replit-Konto erforderlich, aber Sie können nichts speichern.
 
-Voer de volgende stappen uit om te beginnen (je kunt dan dingen saven in replit):
-- Login op Replit met je Github account
-- [open deze repo in Replit](https://replit.com/github/emmauscollege/filius-replit), kies "bash" als language, klik op "import repo", het laden kan een minuutje duren.
-- Druk op de groen Run-knop in Replit, Filius verschijnt
-- Maak de tab in replit waarin Filius staat (die tab heet Output) schermvullend. Klik op de drie puntjes rechts bovenin de tab, klik in het menu dat verschijnt op "maximize"
-- Klik rechtsboven in Filius op het icoon voor een groot venster, dat icoon zit links van het kruisje
-- Wil je bestand gebruiken of opslaan? Gebruik dan de map filius-replit in de filemanager van Filius. Je bestanden worden dan in replit bewaard.
+## Filius starten
+- Drücken Sie die grüne Schaltfläche „Ausführen“ in Replit. Filius wird angezeigt.
+- Bringen Sie die Registerkarte in Replit, welche Filius enthält (die Registerkarte heisst Ausgabe), in den Vollbildmodus. Klicken Sie auf die drei Punkte oben rechts auf der Registerkarte und klicken Sie im angezeigten Menü auf „Maximieren“.
+- Klicken Sie auf das Symbol für ein grosses Fenster oben rechts in Filius. Das Symbol befindet sich links vom Kreuz zum Schliessen.
 
-Veel plezier!
+Viel Spass!
+
+
+## Eigenes Replit erstellen
+Somit können Dateien in Filius gespeichert werden.
+
+- Klicke 'Create' in Replit
+- Klicke 'import from Github'
+- Wähle den Tab 'From URL' aus
+- Verwende die URL: https://github.com/nairboon/filius-replit
+- Wähle unter 'Language' die Sprache 'Bash'
+- Klicke 'Import'
+- Klicke grünen 'Run' Knopf
+
